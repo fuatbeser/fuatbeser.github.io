@@ -1,5 +1,5 @@
 # Hugo build configuration for GitHub Pages
-baseURL: 'https://fuatbeser.github.io/'
+baseURL: 'https://fuatbeser.com/'
 languageCode: 'en'
 title: 'Fuat Beser'
 
