@@ -1,0 +1,8 @@
+# Hugo build configuration for GitHub Pages
+baseURL: 'https://fuatbeser.github.io/'
+languageCode: 'en'
+title: 'Fuat Beser'
+
+# Build settings
+publishDir: 'public'
+canonifyURLs: true
