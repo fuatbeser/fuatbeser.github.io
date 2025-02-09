@@ -29,20 +29,16 @@ jobs:
           hugo-version: 'latest'
           extended: true
       
-      - name: List files before build
-        run: ls -la
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v3
       
       - name: Build
-        run: hugo --minify --debug
-      
-      - name: List public directory
-        run: ls -la public/
+        run: hugo --minify
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-          retention-days: 1
 
   deploy:
     environment:
