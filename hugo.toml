@@ -1,0 +1,19 @@
+baseURL = 'https://fuatbeser.github.io/'
+languageCode = 'en'
+title = 'Fuat Beser'
+theme = 'congo'
+
+[params]
+  description = 'My personal website'
+  
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20

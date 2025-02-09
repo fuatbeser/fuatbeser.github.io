@@ -1,0 +1,31 @@
+# Hugo default output directory
+/public/
+
+# Hugo generated resources directory
+/resources/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE specific files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Hugo local development files
+/themes/**/node_modules/
+hugo_stats.json
+
+# Temporary files
+*.backup
+*.bak
+*.tmp
+
+# Log files
+*.log
+
+# Local Netlify folder
+.netlify
