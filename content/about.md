@@ -14,6 +14,6 @@ In addition to his work with the AI Business School, Fuat is a co-founder of the
 
 ## Community Involvement and Recognition
 
-Beyond his professional roles, Fuat has been active in various volunteer and community-based initiatives. He founded the **Deep Learning Turkey** community, which brings together individuals interested in artificial intelligence. His expertise in machine learning also earned him recognition as a **Google Developer Expert**.
+Beyond his professional roles, Fuat has been active in various volunteer and community-based initiatives. He founded the **Deep Learning Turkey** community, which brings together individuals interested in artificial intelligence (AI). His expertise in machine learning also earned him recognition as a **Google Developer Expert**.
 
 Fuat has also contributed to projects aimed at enhancing the accessibility of educational content on the **Coursera** platform, focusing on the Turkish language. His work as an **AI Ambassador** at **deeplearning.ai** has enabled him to share knowledge and support others interested in artificial intelligence
